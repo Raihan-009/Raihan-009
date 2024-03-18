@@ -1,5 +1,3 @@
-![](https://media.licdn.com/dms/image/D5603AQFYttY19rvQcA/profile-displayphoto-shrink_800_800/0/1692384943531?e=1716422400&v=beta&t=tOShKdt3yt3aE-MeSBvqKYVg6qrJb6PkBPrlcfnGVcs)
-
 ### Hi there 👋, This is Raihan
 
 
