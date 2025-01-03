@@ -1,12 +1,12 @@
 ### Hi there 👋, This is Raihan
 
 
-Software Engineer || Secured Championship at Tri-Robo Cup & Insight|| Undergraduate student at Mechatronics || An AI and IoT enthusiast
+Prospective Graduate Student || Software Engineer || BSc at Mechatronics Engineering || An AI, IoT and Devops enthusiast
 
 Skills: Docker / Kubernetes / Python / Flask / ML / DL
 
 - 🔭 I’m currently working on Poridhi.io 
-- 🌱 I’m currently learning eBPF 
+- 🌱 I’m currently learning monitoring tools like prometheus, opentelemetry, grafana, tempo etc. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raihan-009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raihan009/)  
