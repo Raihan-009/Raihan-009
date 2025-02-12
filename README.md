@@ -19,7 +19,7 @@ I'm a software engineer passionate about building scalable systems and automatin
     "DevOps": ["Docker", "Kubernetes", "CI/CD"],
     "Backend": ["Python", "Flask"],
     "AI/ML": ["Machine Learning", "Deep Learning"],
-    "Cloud": ["AWS", "GCP"],  # Adding these as they're relevant to DevOps
+    "Cloud": ["AWS", "GCP"],  
     "Monitoring": ["Prometheus", "Grafana"]
 }
  
