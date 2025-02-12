@@ -1,15 +1,27 @@
-### Hi there 👋, This is Raihan
+# 👋 Hi, I'm Raihan
 
+> DevOps Engineer | AI & IoT Enthusiast | BSc in Mechatronics Engineering
 
-Prospective Graduate Student || Software Engineer || BSc at Mechatronics Engineering || An AI, IoT and Devops enthusiast
+### 🚀 About Me
+I'm a software engineer passionate about building scalable systems and automating deployments. With a background in Mechatronics Engineering, I bring a unique perspective to solving complex technical challenges.
 
-Skills: Docker / Kubernetes / Python / Flask / ML / DL
+### 💻 Current Focus
+- 🔭 Building cloud-native solutions at [Poridhi.io](https://poridhi.io)
+- 🌱 Mastering observability stack:
+  - Prometheus
+  - OpenTelemetry
+  - Grafana
+  - Tempo
 
-- 🔭 I’m currently working on Poridhi.io 
-- 🌱 I’m currently learning monitoring tools like prometheus, opentelemetry, grafana, tempo etc. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raihan-009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raihan009/)  
+### 🛠️ Tech Stack
+```python
+{
+    "DevOps": ["Docker", "Kubernetes", "CI/CD"],
+    "Backend": ["Python", "Flask"],
+    "AI/ML": ["Machine Learning", "Deep Learning"],
+    "Cloud": ["AWS", "GCP"],  # Adding these as they're relevant to DevOps
+    "Monitoring": ["Prometheus", "Grafana"]
+}
  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Raihan-009)  
